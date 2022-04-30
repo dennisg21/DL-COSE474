@@ -1,1 +1,1 @@
-# DL-COSE474
+# 2021 fall COSE474 Deep Learning
